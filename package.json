@@ -12,7 +12,9 @@
   "dependencies": {
     "@tresjs/cientos": "^4.3.1",
     "@tresjs/core": "^4.3.6",
+    "@vueuse/core": "^13.5.0",
     "gh-pages": "^6.3.0",
+    "pinia": "^3.0.3",
     "three": "^0.178.0",
     "vue": "^3.5.17"
   },
